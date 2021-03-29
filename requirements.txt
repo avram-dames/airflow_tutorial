@@ -31,7 +31,7 @@ pandas==0.20.3
 pkg-resources==0.0.0
 psutil==4.4.2
 psycopg2==2.7.3
-Pygments==2.2.0
+Pygments==2.7.4
 python-daemon==2.1.2
 python-dateutil==2.6.1
 python-editor==1.0.3
